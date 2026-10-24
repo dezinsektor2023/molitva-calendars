@@ -1,0 +1,572 @@
+{
+  "schemaVersion": 1,
+  "calendars": {
+    "hr-HR-2026": {
+      "language": "hr",
+      "country": "HR",
+      "year": 2026,
+      "revision": "4f105dae64470c70",
+      "path": "data/hr-HR-2026.4f105dae64470c70.json",
+      "sha256": "a5b8723357dc9f9778804b8197b7fb37043cc980cd1050891dc955535c34b4c5",
+      "bytes": 128351
+    },
+    "hr-HR-2027": {
+      "language": "hr",
+      "country": "HR",
+      "year": 2027,
+      "revision": "2cda7966fb5b90e4",
+      "path": "data/hr-HR-2027.2cda7966fb5b90e4.json",
+      "sha256": "c526678034aa555eaad3e88836586980b1fe6da7c932430f26f2311f85ee504c",
+      "bytes": 128421
+    },
+    "hr-HR-2028": {
+      "language": "hr",
+      "country": "HR",
+      "year": 2028,
+      "revision": "8680e960d91cbae9",
+      "path": "data/hr-HR-2028.8680e960d91cbae9.json",
+      "sha256": "111e8273868a28c11a12a1b07600bd8516bc2e3983dfc3be698f7731bee5b785",
+      "bytes": 142266
+    },
+    "es-ES-2026": {
+      "language": "es",
+      "country": "ES",
+      "year": 2026,
+      "revision": "b3cb144f407df5c3",
+      "path": "data/es-ES-2026.b3cb144f407df5c3.json",
+      "sha256": "b4b4637264c127b5322497d4b30ed439f288d23de33e90e7bc47f82dda160aec",
+      "bytes": 140812
+    },
+    "es-ES-2027": {
+      "language": "es",
+      "country": "ES",
+      "year": 2027,
+      "revision": "f0171d5443d2b672",
+      "path": "data/es-ES-2027.f0171d5443d2b672.json",
+      "sha256": "3df00c3b0d55a9ab8a51cd622615f57316435390e2145c228c13e910eba1057b",
+      "bytes": 141608
+    },
+    "es-ES-2028": {
+      "language": "es",
+      "country": "ES",
+      "year": 2028,
+      "revision": "69e80cc58b3f812a",
+      "path": "data/es-ES-2028.69e80cc58b3f812a.json",
+      "sha256": "3856864ef31a126f23dbb2994f5ebc5189f57022e9c3551207a55077f6733ccb",
+      "bytes": 141086
+    },
+    "es-CO-2026": {
+      "language": "es",
+      "country": "CO",
+      "year": 2026,
+      "revision": "a91ddb151dee883a",
+      "path": "data/es-CO-2026.a91ddb151dee883a.json",
+      "sha256": "0e99bb86e65272534a1d9e6112901486eb6ed23b78fdd7748e92d8e608e3e431",
+      "bytes": 139164
+    },
+    "es-CO-2027": {
+      "language": "es",
+      "country": "CO",
+      "year": 2027,
+      "revision": "307247e3383ab584",
+      "path": "data/es-CO-2027.307247e3383ab584.json",
+      "sha256": "3cbfccf49f87aca23aeb913a59306abea35ede2b1ce1142503b625c334bcecab",
+      "bytes": 140280
+    },
+    "es-CO-2028": {
+      "language": "es",
+      "country": "CO",
+      "year": 2028,
+      "revision": "aacf12f1a49b8fc7",
+      "path": "data/es-CO-2028.aacf12f1a49b8fc7.json",
+      "sha256": "5a7866fdf66aa0424bf5765044d32a0aef7234b2519dc551e59a1009e9b47b50",
+      "bytes": 140187
+    },
+    "es-AR-2026": {
+      "language": "es",
+      "country": "AR",
+      "year": 2026,
+      "revision": "7d3341fdc7655f3d",
+      "path": "data/es-AR-2026.7d3341fdc7655f3d.json",
+      "sha256": "60f5b7fa9a28d7197e9ea068c36d339d9e23736ef85460c23b63be6599596781",
+      "bytes": 140822
+    },
+    "es-AR-2027": {
+      "language": "es",
+      "country": "AR",
+      "year": 2027,
+      "revision": "d73b0b3bc4914185",
+      "path": "data/es-AR-2027.d73b0b3bc4914185.json",
+      "sha256": "901776cb12a3fa4af72e5cb1c747da1603f9caa13ad14e9e9665f12e0227e72a",
+      "bytes": 142109
+    },
+    "es-AR-2028": {
+      "language": "es",
+      "country": "AR",
+      "year": 2028,
+      "revision": "79678a44f237c17d",
+      "path": "data/es-AR-2028.79678a44f237c17d.json",
+      "sha256": "f54894ac20c485b154b1d29985cd3c3d0b30fb204bcdf16853e31746461ece06",
+      "bytes": 142111
+    },
+    "es-PE-2026": {
+      "language": "es",
+      "country": "PE",
+      "year": 2026,
+      "revision": "bbec593e14d52db1",
+      "path": "data/es-PE-2026.bbec593e14d52db1.json",
+      "sha256": "f568f4062dd745498cef79339b66e79c95e17c723d2dc166ca768714b23fee4d",
+      "bytes": 138403
+    },
+    "es-PE-2027": {
+      "language": "es",
+      "country": "PE",
+      "year": 2027,
+      "revision": "b474465b8f340a07",
+      "path": "data/es-PE-2027.b474465b8f340a07.json",
+      "sha256": "f845b6a4370ee39e008dadf4ac2a8cf7c8a2a5fdfefc6f858a5deb100023743f",
+      "bytes": 139730
+    },
+    "es-PE-2028": {
+      "language": "es",
+      "country": "PE",
+      "year": 2028,
+      "revision": "508849661b031e3d",
+      "path": "data/es-PE-2028.508849661b031e3d.json",
+      "sha256": "85886194f762a2a360d2a8f2e868cdf0cd95eede70753da2a619a0a7950becdf",
+      "bytes": 139362
+    },
+    "es-VE-2026": {
+      "language": "es",
+      "country": "VE",
+      "year": 2026,
+      "revision": "8b7036882db1d69e",
+      "path": "data/es-VE-2026.8b7036882db1d69e.json",
+      "sha256": "31ceaa114245530e2dbdfb5553f941c3fa934611919f9823e2d44a552b17e11f",
+      "bytes": 140132
+    },
+    "es-VE-2027": {
+      "language": "es",
+      "country": "VE",
+      "year": 2027,
+      "revision": "1c2f914d94b02ae5",
+      "path": "data/es-VE-2027.1c2f914d94b02ae5.json",
+      "sha256": "235619a4d0b6e14fc464b7993ce0f27d1881ce8b54e15e36fcc9d3c6e1cf1d08",
+      "bytes": 141573
+    },
+    "es-VE-2028": {
+      "language": "es",
+      "country": "VE",
+      "year": 2028,
+      "revision": "e96aee272a8a534a",
+      "path": "data/es-VE-2028.e96aee272a8a534a.json",
+      "sha256": "331a0e64d5c77eac4ee48571f42333f7cca1422b82d0dc420d00bb8dee8d46b9",
+      "bytes": 141329
+    },
+    "es-CL-2026": {
+      "language": "es",
+      "country": "CL",
+      "year": 2026,
+      "revision": "429c12403f530d63",
+      "path": "data/es-CL-2026.429c12403f530d63.json",
+      "sha256": "1f874fc3d0ca9187418a1feca502b63125b0a7208f5676227eaf8a38eff34736",
+      "bytes": 138225
+    },
+    "es-CL-2027": {
+      "language": "es",
+      "country": "CL",
+      "year": 2027,
+      "revision": "2c8ab1331eae9d95",
+      "path": "data/es-CL-2027.2c8ab1331eae9d95.json",
+      "sha256": "6d1a89be3cbdf071ce2aab8cdd12fffab0caae3ec0b6deee6f7d4c90497336f2",
+      "bytes": 139517
+    },
+    "es-CL-2028": {
+      "language": "es",
+      "country": "CL",
+      "year": 2028,
+      "revision": "0b925a079c37b21a",
+      "path": "data/es-CL-2028.0b925a079c37b21a.json",
+      "sha256": "3a720ce12e92fdd0c1dc885ac0d482ee73004c656ff245084ca4b781e0c48da3",
+      "bytes": 139172
+    },
+    "es-EC-2026": {
+      "language": "es",
+      "country": "EC",
+      "year": 2026,
+      "revision": "612e8b5a7ff6a5c5",
+      "path": "data/es-EC-2026.612e8b5a7ff6a5c5.json",
+      "sha256": "fe7959468b1562f42a22741969d40f00b134a8d1b05b7ceba52560ca8766b922",
+      "bytes": 138854
+    },
+    "es-EC-2027": {
+      "language": "es",
+      "country": "EC",
+      "year": 2027,
+      "revision": "b8183e8f9615475a",
+      "path": "data/es-EC-2027.b8183e8f9615475a.json",
+      "sha256": "b35a4e2f46d86080cb1429f4d264722be0cafb431b5fef561c8e9abaf3fc8f93",
+      "bytes": 140205
+    },
+    "es-EC-2028": {
+      "language": "es",
+      "country": "EC",
+      "year": 2028,
+      "revision": "bd8a717449f1a357",
+      "path": "data/es-EC-2028.bd8a717449f1a357.json",
+      "sha256": "013b48bedc1a5cba40a1e003335557571773661a81499a032288873369e30f15",
+      "bytes": 139842
+    },
+    "es-BO-2026": {
+      "language": "es",
+      "country": "BO",
+      "year": 2026,
+      "revision": "66c85f7a5d43da4f",
+      "path": "data/es-BO-2026.66c85f7a5d43da4f.json",
+      "sha256": "5943ca37aa668e5ab283c7a3fca49b7407a919fde90017ece7ca6a06a63ef499",
+      "bytes": 138875
+    },
+    "es-BO-2027": {
+      "language": "es",
+      "country": "BO",
+      "year": 2027,
+      "revision": "306f46618002ab55",
+      "path": "data/es-BO-2027.306f46618002ab55.json",
+      "sha256": "2bc437ce9ba577fd52a21dae4dc816c71450c756459de95e99556d5e55ef8fb3",
+      "bytes": 140524
+    },
+    "es-BO-2028": {
+      "language": "es",
+      "country": "BO",
+      "year": 2028,
+      "revision": "f43bec260463b1c7",
+      "path": "data/es-BO-2028.f43bec260463b1c7.json",
+      "sha256": "162dc4e311d58f8551aecbb6e03b338253ac99bdab25dff75d321645fd2a099b",
+      "bytes": 139948
+    },
+    "es-PY-2026": {
+      "language": "es",
+      "country": "PY",
+      "year": 2026,
+      "revision": "3466465b8ef39840",
+      "path": "data/es-PY-2026.3466465b8ef39840.json",
+      "sha256": "df831e082a6eb8677edb3436a2b0426af13563a9b121f7ff7b34a403ad799612",
+      "bytes": 171296
+    },
+    "es-PY-2027": {
+      "language": "es",
+      "country": "PY",
+      "year": 2027,
+      "revision": "02ccf13f74e166a3",
+      "path": "data/es-PY-2027.02ccf13f74e166a3.json",
+      "sha256": "7a9e5a163863fd96b85ec2cbaa4ab4def65db2a1681a63265beee62db0615b5d",
+      "bytes": 172715
+    },
+    "es-PY-2028": {
+      "language": "es",
+      "country": "PY",
+      "year": 2028,
+      "revision": "bc819f820027bc0c",
+      "path": "data/es-PY-2028.bc819f820027bc0c.json",
+      "sha256": "ec424ee39b4d31fc2da484ca6bdc9bc2117eeaa0dccd6f438d540da7a2791963",
+      "bytes": 172422
+    },
+    "en-US_H-2026": {
+      "language": "en",
+      "country": "US_H",
+      "year": 2026,
+      "revision": "0cf1269a82d53e95",
+      "path": "data/en-US_H-2026.0cf1269a82d53e95.json",
+      "sha256": "2c658da024bf629790377bef4e42dfe95490b37e3af17603d06572e13275b00d",
+      "bytes": 180032
+    },
+    "en-US_H-2027": {
+      "language": "en",
+      "country": "US_H",
+      "year": 2027,
+      "revision": "8a6a5e77ce9b41ba",
+      "path": "data/en-US_H-2027.8a6a5e77ce9b41ba.json",
+      "sha256": "a79702cfa977043541904a02f49ebe4ff2a8679a8032088f778df2e25593be88",
+      "bytes": 181629
+    },
+    "en-US_H-2028": {
+      "language": "en",
+      "country": "US_H",
+      "year": 2028,
+      "revision": "de3449f8609a6738",
+      "path": "data/en-US_H-2028.de3449f8609a6738.json",
+      "sha256": "457a4f347e974afa8349a769adb3b4271f888485d0943f18ee83c1753130404e",
+      "bytes": 181188
+    },
+    "en-US_D-2026": {
+      "language": "en",
+      "country": "US_D",
+      "year": 2026,
+      "revision": "b127f3759e31c5dc",
+      "path": "data/en-US_D-2026.b127f3759e31c5dc.json",
+      "sha256": "56271c0e599a750f461758e642d8e16205cf03bd5302648e99ef1be8f9d3324e",
+      "bytes": 180734
+    },
+    "en-US_D-2027": {
+      "language": "en",
+      "country": "US_D",
+      "year": 2027,
+      "revision": "9f593acd447f7e53",
+      "path": "data/en-US_D-2027.9f593acd447f7e53.json",
+      "sha256": "900b34b167ae49eeef0ae170e5393582ba77adf4f28a5e2fb8e93a9f67922747",
+      "bytes": 182332
+    },
+    "en-US_D-2028": {
+      "language": "en",
+      "country": "US_D",
+      "year": 2028,
+      "revision": "f245ba5c30931775",
+      "path": "data/en-US_D-2028.f245ba5c30931775.json",
+      "sha256": "6e4cfc5ddc35d8b93ac4b33e3e0826cb7a361f5e63df00419b4a5b346c383b0d",
+      "bytes": 181542
+    },
+    "en-QE-2026": {
+      "language": "en",
+      "country": "QE",
+      "year": 2026,
+      "revision": "bac3e1f1b9f786fe",
+      "path": "data/en-QE-2026.bac3e1f1b9f786fe.json",
+      "sha256": "bd9f6fc364b8e520e631a6671fad0dc9cac6a888c85f1aae51b83a4475b62cd3",
+      "bytes": 169329
+    },
+    "en-QE-2027": {
+      "language": "en",
+      "country": "QE",
+      "year": 2027,
+      "revision": "420f566e03fbc06d",
+      "path": "data/en-QE-2027.420f566e03fbc06d.json",
+      "sha256": "37feea2164f15eee9b719857bcd04f36daaf3ef1ad80d862f69c9fa40f435246",
+      "bytes": 169945
+    },
+    "en-QE-2028": {
+      "language": "en",
+      "country": "QE",
+      "year": 2028,
+      "revision": "b70ca07a8b45cc23",
+      "path": "data/en-QE-2028.b70ca07a8b45cc23.json",
+      "sha256": "f465702bd9f300f47ba3071db4f296c9ba5caf100fdd1b37c87300f46eeb7315",
+      "bytes": 190294
+    },
+    "en-QW-2026": {
+      "language": "en",
+      "country": "QW",
+      "year": 2026,
+      "revision": "4d98796891f49f6e",
+      "path": "data/en-QW-2026.4d98796891f49f6e.json",
+      "sha256": "cb117dc46f139974398331ea7f40df866398d0726cd97f4eb49299f8c0a501d7",
+      "bytes": 167548
+    },
+    "en-QW-2027": {
+      "language": "en",
+      "country": "QW",
+      "year": 2027,
+      "revision": "850e041ec6e0917c",
+      "path": "data/en-QW-2027.850e041ec6e0917c.json",
+      "sha256": "703062fe7e81edcf0990afb506b8e703e7da753369cf49e51622ca431dfff826",
+      "bytes": 168477
+    },
+    "en-QW-2028": {
+      "language": "en",
+      "country": "QW",
+      "year": 2028,
+      "revision": "f94304d7860e636c",
+      "path": "data/en-QW-2028.f94304d7860e636c.json",
+      "sha256": "a33b763af29acbd70b8acf235e253d76161d4023b6011c05da412e0060bdeab3",
+      "bytes": 188645
+    },
+    "en-QS-2026": {
+      "language": "en",
+      "country": "QS",
+      "year": 2026,
+      "revision": "c814824c826f71f3",
+      "path": "data/en-QS-2026.c814824c826f71f3.json",
+      "sha256": "329447591f95a56bf3659be95a8b09ade633a9ab8d23d6f491f4560cfe78e4bb",
+      "bytes": 167288
+    },
+    "en-QS-2027": {
+      "language": "en",
+      "country": "QS",
+      "year": 2027,
+      "revision": "2672b96707a77feb",
+      "path": "data/en-QS-2027.2672b96707a77feb.json",
+      "sha256": "32588c4bc6e56516442aa06193884f934e5f6457ac4a5ffba713d984ba2bc4f8",
+      "bytes": 168537
+    },
+    "en-QS-2028": {
+      "language": "en",
+      "country": "QS",
+      "year": 2028,
+      "revision": "bdad5a3847a2191f",
+      "path": "data/en-QS-2028.bdad5a3847a2191f.json",
+      "sha256": "069a3879c43bc093a93ec1c6aa419c59fc2f336b96af0859a97498f9309a7a72",
+      "bytes": 168175
+    },
+    "en-NI-2026": {
+      "language": "en",
+      "country": "NI",
+      "year": 2026,
+      "revision": "34b380a4ab259aab",
+      "path": "data/en-NI-2026.34b380a4ab259aab.json",
+      "sha256": "860b448358a8b5f019cfbb313aa9cf429e9e03e3d6fe1565416cc0fab6c2d471",
+      "bytes": 173957
+    },
+    "en-NI-2027": {
+      "language": "en",
+      "country": "NI",
+      "year": 2027,
+      "revision": "c64e44214a0be1f5",
+      "path": "data/en-NI-2027.c64e44214a0be1f5.json",
+      "sha256": "c7240eeafacf2dcffbedf9fc28740b2626ac83660462a1f05e6bc6f29e97e21b",
+      "bytes": 174903
+    },
+    "en-NI-2028": {
+      "language": "en",
+      "country": "NI",
+      "year": 2028,
+      "revision": "e4ef0bc19fe3c10c",
+      "path": "data/en-NI-2028.e4ef0bc19fe3c10c.json",
+      "sha256": "5a895d41bb893c23eb7d3d74267c8cae40fc13a8d876316276040691f342a721",
+      "bytes": 174925
+    },
+    "pt-BR-2026": {
+      "language": "pt",
+      "country": "BR",
+      "year": 2026,
+      "revision": "922f04ac7498a341",
+      "path": "data/pt-BR-2026.922f04ac7498a341.json",
+      "sha256": "b18b0eeb9fbeeb4785aabf1221440fdc63a2823c569b7c1735b818a25ef0ac38",
+      "bytes": 137219
+    },
+    "pt-BR-2027": {
+      "language": "pt",
+      "country": "BR",
+      "year": 2027,
+      "revision": "3b63b89c1052526f",
+      "path": "data/pt-BR-2027.3b63b89c1052526f.json",
+      "sha256": "16bc2e42ab8c02a7f6d7cae559eed4f29f6a931723899edf1658f18c1b573747",
+      "bytes": 138124
+    },
+    "pt-BR-2028": {
+      "language": "pt",
+      "country": "BR",
+      "year": 2028,
+      "revision": "940e8bb05e7f6db0",
+      "path": "data/pt-BR-2028.940e8bb05e7f6db0.json",
+      "sha256": "7f58707f18fcc6a894a0f453c3ad882f7989448e5adb2212c7d8739f0c4f4e1c",
+      "bytes": 138203
+    },
+    "pt-PT-2026": {
+      "language": "pt",
+      "country": "PT",
+      "year": 2026,
+      "revision": "7223bee1f16640c8",
+      "path": "data/pt-PT-2026.7223bee1f16640c8.json",
+      "sha256": "cf4b4194c43391f25f1141571fe49a351727bd72c7e1993476c54c2f1efcac36",
+      "bytes": 137768
+    },
+    "pt-PT-2027": {
+      "language": "pt",
+      "country": "PT",
+      "year": 2027,
+      "revision": "b11ac9a4412844b1",
+      "path": "data/pt-PT-2027.b11ac9a4412844b1.json",
+      "sha256": "ca226ce95a861cb89f56885280e2c7dfeed2863eb47383331a85d7f730bc2553",
+      "bytes": 138621
+    },
+    "pt-PT-2028": {
+      "language": "pt",
+      "country": "PT",
+      "year": 2028,
+      "revision": "d21e76839c608e06",
+      "path": "data/pt-PT-2028.d21e76839c608e06.json",
+      "sha256": "f411de61e13f4da17a635a582379933b731670de18216901b5348b92dfc5ebd9",
+      "bytes": 154123
+    },
+    "pl-PL-2026": {
+      "language": "pl",
+      "country": "PL",
+      "year": 2026,
+      "revision": "a7df8824e92ac3bf",
+      "path": "data/pl-PL-2026.a7df8824e92ac3bf.json",
+      "sha256": "99727ea22a672928157f4df94a80c333d2d0f0cac236ccc73c3c64e031b148c5",
+      "bytes": 147223
+    },
+    "pl-PL-2027": {
+      "language": "pl",
+      "country": "PL",
+      "year": 2027,
+      "revision": "f175107c041b3806",
+      "path": "data/pl-PL-2027.f175107c041b3806.json",
+      "sha256": "e17c6abefa931884520585b1b8a447047357ce49e451dc37047ef1398137d647",
+      "bytes": 147886
+    },
+    "pl-PL-2028": {
+      "language": "pl",
+      "country": "PL",
+      "year": 2028,
+      "revision": "d79d4d515c7be32a",
+      "path": "data/pl-PL-2028.d79d4d515c7be32a.json",
+      "sha256": "51683090443422fb95bbf972d60da38f893e6c9fd8fa286ff6c9714c8337be30",
+      "bytes": 148338
+    },
+    "it-IT-2026": {
+      "language": "it",
+      "country": "IT",
+      "year": 2026,
+      "revision": "edce9596bfd55c8c",
+      "path": "data/it-IT-2026.edce9596bfd55c8c.json",
+      "sha256": "b83ba20721c954536ebf185fb38b00f2604b5c88fd697e31bfd665a4ea341513",
+      "bytes": 158978
+    },
+    "it-IT-2027": {
+      "language": "it",
+      "country": "IT",
+      "year": 2027,
+      "revision": "dda6c6355a77fe44",
+      "path": "data/it-IT-2027.dda6c6355a77fe44.json",
+      "sha256": "530b5aded13b6e3a31552bcd331c5fe477b578c5d396b6ccc5761eb1609ad56e",
+      "bytes": 163064
+    },
+    "it-IT-2028": {
+      "language": "it",
+      "country": "IT",
+      "year": 2028,
+      "revision": "fcbd7ec244966bbc",
+      "path": "data/it-IT-2028.fcbd7ec244966bbc.json",
+      "sha256": "786fa1271759cc78ef38a5aa9635fe9d15985c95f11831a01fa7eb71d4cda7ee",
+      "bytes": 162614
+    },
+    "fr-FR-2026": {
+      "language": "fr",
+      "country": "FR",
+      "year": 2026,
+      "revision": "dbeec9d10472d649",
+      "path": "data/fr-FR-2026.dbeec9d10472d649.json",
+      "sha256": "7a7bc6302ff8ee9f4118c07a0001cc0e521698c096edb8a18c1ef2c16870d58b",
+      "bytes": 144980
+    },
+    "fr-FR-2027": {
+      "language": "fr",
+      "country": "FR",
+      "year": 2027,
+      "revision": "ae6d98ab4ccb7caa",
+      "path": "data/fr-FR-2027.ae6d98ab4ccb7caa.json",
+      "sha256": "c5118f56b21d5a329ff2a66f33de9af6d152b1f1970ab9d23830b2e12a2bdba4",
+      "bytes": 158483
+    },
+    "fr-FR-2028": {
+      "language": "fr",
+      "country": "FR",
+      "year": 2028,
+      "revision": "cbda9d2dd9c3d174",
+      "path": "data/fr-FR-2028.cbda9d2dd9c3d174.json",
+      "sha256": "2ec5b46e44b730482b785f00e122a1f0221dd57d5d39f521bbdb3d3ef2e9660e",
+      "bytes": 170921
+    }
+  }
+}
