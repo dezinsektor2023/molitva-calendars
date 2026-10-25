@@ -275,10 +275,10 @@
       "language": "en",
       "country": "US_H",
       "year": 2026,
-      "revision": "0cf1269a82d53e95",
-      "path": "data/en-US_H-2026.0cf1269a82d53e95.json",
-      "sha256": "2c658da024bf629790377bef4e42dfe95490b37e3af17603d06572e13275b00d",
-      "bytes": 180032
+      "revision": "72b6d6c4086d0579",
+      "path": "data/en-US_H-2026.72b6d6c4086d0579.json",
+      "sha256": "ca052bd01f41ca851f5c5e5765bad220fe7a82dea4287513c173b8e0bea9a9b9",
+      "bytes": 180421
     },
     "en-US_H-2027": {
       "language": "en",
@@ -302,10 +302,10 @@
       "language": "en",
       "country": "US_D",
       "year": 2026,
-      "revision": "b127f3759e31c5dc",
-      "path": "data/en-US_D-2026.b127f3759e31c5dc.json",
-      "sha256": "56271c0e599a750f461758e642d8e16205cf03bd5302648e99ef1be8f9d3324e",
-      "bytes": 180734
+      "revision": "3e40966a8bf428c6",
+      "path": "data/en-US_D-2026.3e40966a8bf428c6.json",
+      "sha256": "2849856ca6f7b6007e482ca3fcaf79526fbd394fd850a7e3336ca8e89850b82c",
+      "bytes": 181123
     },
     "en-US_D-2027": {
       "language": "en",
