@@ -567,6 +567,33 @@
       "path": "data/fr-FR-2028.cbda9d2dd9c3d174.json",
       "sha256": "2ec5b46e44b730482b785f00e122a1f0221dd57d5d39f521bbdb3d3ef2e9660e",
       "bytes": 170921
+    },
+    "fil-PH-2026": {
+      "language": "fil",
+      "country": "PH",
+      "year": 2026,
+      "revision": "a429a37419bbb950",
+      "path": "data/fil-PH-2026.a429a37419bbb950.json",
+      "sha256": "d37163f71a4bcef98890c539a1357529c76ac83ef27564c3dcad635311b48ae1",
+      "bytes": 174953
+    },
+    "fil-PH-2027": {
+      "language": "fil",
+      "country": "PH",
+      "year": 2027,
+      "revision": "0c055e10a1b08fe1",
+      "path": "data/fil-PH-2027.0c055e10a1b08fe1.json",
+      "sha256": "fd18efdae90a13fb41e82e3d2432946da43fd55aee15ecc4a62eca3ea0788348",
+      "bytes": 183736
+    },
+    "fil-PH-2028": {
+      "language": "fil",
+      "country": "PH",
+      "year": 2028,
+      "revision": "5c45956e2092f6be",
+      "path": "data/fil-PH-2028.5c45956e2092f6be.json",
+      "sha256": "88ffb950c656b78cc3ab5df8af3f0b5b45a052eaeebf3983643862627a9f8c09",
+      "bytes": 183142
     }
   }
 }
